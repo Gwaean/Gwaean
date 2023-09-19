@@ -4,7 +4,9 @@
 
 - 👋 Hi, I’m @Gwaean, also known as Niki or Nicole
 -  I’m interested in gaming, books (specially sci-fi and fantasy!), arts & drawing, UI/UX Design and obviously computing :) 
--  I’m currently studying information systems at UTFPR and I'm a volunteer at the extension program, at my university, Emílias- armação em bits, which helps inspire and support girls at IT and computing areas <3
--  You know, I'd love to work at a game studio/company or an animation studio. Maybe developping my own stuff (cofcof games) and who knows where life will lead me?
-- How to reach me:
+-  I’m currently studying information systems at UTFPR and I´m part of a research project @ELLASNetwork, we work with open data, graphs and ontology. And our goal it´s to create an open data portal about women in STEM in Latin America, specially about iniciatives and projects that help attract and/or keep and empower girls for STEM areas.
+-  key interests: Game DEV & Data Science;
+
+
  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
