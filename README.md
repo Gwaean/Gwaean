@@ -14,7 +14,6 @@ struct Person: Identifiable {
     let language: String
 }
 private var programmingLanguages = [
-     
     Person(language: "C"),
     Person(language: "C++"),
     Person(language: "Java"),
