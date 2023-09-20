@@ -10,10 +10,12 @@
 
  
 struct Person: Identifiable {
+
     let name = "Nicole D. Hildebrand"
     let language: String
 }
 private var programmingLanguages = [
+
     Person(language: "C"),
     Person(language: "C++"),
     Person(language: "Java"),
@@ -24,6 +26,7 @@ private var programmingLanguages = [
     Person(language: "HTML")
 ]
 var body: some View {
+
     List(programmingLanguages) {
         Text($0.language)
     }
