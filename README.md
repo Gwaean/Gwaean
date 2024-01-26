@@ -23,7 +23,8 @@ private var programmingLanguages = [
     Person(language: "Python"),
     Person(language: "Lua"),
     Person(language: "CSS"),
-    Person(language: "HTML")
+    Person(language: "HTML"),
+    Person(language: "SPARQL")
 ]
 var body: some View {
 
