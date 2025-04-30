@@ -1,9 +1,9 @@
 
  
 
-- 👋 Hi, I’m _Gwaean_, also known as *Nikki* or Nicole
+- 👋 Hi, I’m **Gwaean**, also known as *Nikki* or Nicole
 -  I've always been curious about everything since I was little, I was loved reading and reasearching things :) I've always liked learning things and doing arts,
-  and somehow computing found me and I'mm so glad it did!
+  and somehow computing found me and I'm so glad it did!
 -  I´m part of a research project @ELLASNetwork, we work with open data, graphs and ontology. And our goal it´s to create an open data portal about women in STEM in Latin America, specially about iniciatives and projects that help attract and/or keep and empower girls for STEM areas.
 -  key interests: Game Dev, Distributed Systems & UI/UX Design;
 
