@@ -5,7 +5,8 @@
 -  I've always been curious about everything since I was little, I was loved reading and reasearching things :) I've always liked learning things and doing arts,
   and somehow computing found me and I'm so glad it did!
 -  I´m part of a research project @ELLASNetwork, we work with open data, graphs and ontology. And our goal it´s to create an open data portal about women in STEM in Latin America, specially about iniciatives and projects that help attract and/or keep and empower girls for STEM areas.
--  key interests: Game Dev, Distributed Systems & UI/UX Design;
+-  I'm also part of a team of girls who develop games - Code Siren :)
+-  key interests: Game Dev, HCI & Cybersecurity;
 
 ![Studio Ghibli Goodbye GIF - Find   Share on GIPHY](https://user-images.githubusercontent.com/56048874/178127308-d6f1f6f7-9388-429d-9431-2fb7a23ee7f2.gif)
 
