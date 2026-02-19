@@ -8,8 +8,8 @@
 -  I'm also part of a team of girls who develop games - Code Siren :)
 -  key interests: Game Dev, HCI & Cybersecurity;
 
-![Studio Ghibli Goodbye GIF - Find   Share on GIPHY](https://user-images.githubusercontent.com/56048874/178127308-d6f1f6f7-9388-429d-9431-2fb7a23ee7f2.gif)
 ![Midnight Sun](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJqd2o1Znp5c2cwZjd0N2gwaHM3YnA1aXQ4NGRoN2ZnYXdqNndyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KaO0aK6sMjJdxH8s66/giphy.gif).
+
 ```swift
 struct Person: Identifiable {
 
