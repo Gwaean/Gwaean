@@ -8,8 +8,8 @@
 -  I'm also part of a team of girls who develop games - Code Siren :)
 -  key interests: Game Dev, HCI & Cybersecurity;
 
-![Midnight Sun](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJqd2o1Znp5c2cwZjd0N2gwaHM3YnA1aXQ4NGRoN2ZnYXdqNndyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KaO0aK6sMjJdxH8s66/giphy.gif)
 
+![Zara Larsson Summer GIF](https://github.com/user-attachments/assets/d86b4ac4-459d-47f3-af44-9d6c9359383c)
 
 
 ```swift
